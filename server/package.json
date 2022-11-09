@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Docker network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Piotr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+      }
+}
